@@ -7,6 +7,9 @@
     "release": "release-it",
     "test": "eslint --ext '.js,.ts,.tsx' tests/**"
   },
+  "files": [
+    "index.js"
+  ],
   "keywords": [],
   "author": "danghungtb26",
   "publishConfig": {
