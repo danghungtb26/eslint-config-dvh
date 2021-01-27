@@ -99,5 +99,18 @@ module.exports = {
           "alwaysTryTypes": true // always try to resolve types under `<root>@types` directory even it doesn't contain any source code, like `@types/unist`
         }
       }
+    },
+    "globals": {
+      "window": true,
+      "document": true,
+      "localStorage": true,
+      "FormData": true,
+      "FileReader": true,
+      "Blob": true,
+      "navigator": true,
+      "Headers": true,
+      "Request": true,
+      "fetch": true,
+      "alert": true
     }
   }
