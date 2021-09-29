@@ -4,7 +4,6 @@ module.exports = {
       "@react-native-community",
       "airbnb",
       "prettier",
-      "prettier/react"
     ],
     "plugins": [
       "react",
