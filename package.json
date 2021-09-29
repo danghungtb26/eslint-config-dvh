@@ -23,16 +23,16 @@
   "license": "ISC",
   "dependencies": {
     "eslint-config-airbnb": "^18.2.1",
-    "eslint-config-prettier": "^6.15.0",
-    "eslint-import-resolver-typescript": "^2.3.0",
-    "eslint-plugin-flowtype": "^5.2.0",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-import-resolver-typescript": "^2.5.0",
+    "eslint-plugin-flowtype": "^6.1.0",
+    "eslint-plugin-import": "^2.24.2",
     "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-prettier": "^3.1.4",
-    "eslint-plugin-react": "^7.21.5",
-    "@typescript-eslint/eslint-plugin": "4.0.1",
-    "@typescript-eslint/parser": "4.0.1",
-    "@react-native-community/eslint-config": "^2.0.0"
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.26.0",
+    "@typescript-eslint/eslint-plugin": "^4.32.0",
+    "@typescript-eslint/parser": "^4.32.0",
+    "@react-native-community/eslint-config": "^3.0.1"
   },
   "devDependencies": {
     "@release-it/conventional-changelog": "^2.0.0",
